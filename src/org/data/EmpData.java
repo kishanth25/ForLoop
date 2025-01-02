@@ -7,5 +7,7 @@ public class EmpData {
 		System.out.println("it is a data plan");
 	}
 
-
+   public void seconddata() {
+	   System.out.println("it is second data");
+   }
 }
